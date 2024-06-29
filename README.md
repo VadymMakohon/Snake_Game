@@ -15,7 +15,7 @@
 </p>
 
 ## Demo
-
+ https://vadymmakohon.github.io/Snake_Game/
 
 ## About the Project
 
@@ -48,7 +48,7 @@ No installation is required. Simply clone or download the repository and open th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/VadymMakohon/snake-game.git
+    git clone https://github.com/VadymMakohon/Snake_Game.git
     ```
 
 2. Open the project folder:
