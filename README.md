@@ -19,7 +19,7 @@
 
 ## About the Project
 
-The Snake Game is a classic arcade game where the player controls a snake that moves around the game area to eat food and grows longer each time it eats. The game gets more challenging as the snake grows, and it must avoid colliding with itself or the walls.
+The Snake Game is a classic arcade game where the player controls a snake that moves around a grid to eat food. Each time the snake eats, it grows longer. The challenge increases as the snake grows, requiring the player to avoid collisions with the walls or the snake's own body.
 
 This project implements the basic game mechanics and provides a user interface for an enjoyable gaming experience.
 
